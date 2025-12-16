@@ -27,4 +27,4 @@ Overall, our results demonstrate that even small models can pose meaningful secu
 ---
 
 ## 🔗 Link to Original Paper
-!["We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs"](https://www.usenix.org/conference/usenixsecurity25/presentation/spracklen)
+["We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs"](https://www.usenix.org/conference/usenixsecurity25/presentation/spracklen)
