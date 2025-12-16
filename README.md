@@ -10,15 +10,18 @@ Overall, our results demonstrate that even small models can pose meaningful secu
 
 ## 📊 Results
 
-**###Attack Success Rates Before and After Mitigation Technques**
+### **Attack Success Rates Before and After Mitigation Technques**
+
 ![ASRGRAPH](Assets/ASR_Graph_Mitigation.png)
 ![BASELINE](Assets/Baseline_Table.png)
 ![AFTERGRAPH](Assets/Baseline_After_Mitigation_Table.png)
 
-**###Prompt Engineering Matrix**
+### **Prompt Engineering Matrix**
+
 ![PROMPTMATRIX](Assets/Prompt_Matrix.png)
 
-**###Prompt Engineering Performance**
+### **Prompt Engineering Performance**
+
 ![PROMPTPERF](Assets/Avg_ASR_Graph_For_Prompt.png)
 
 ---
